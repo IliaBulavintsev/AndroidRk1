@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rk1</string>
+    <string name="update_news">Обновить новость</string>
+    <string name="update_news_back">Обновить в фоновом режиме</string>
+    <string name="update_news_no_back">Не Обновлять в фоновом режиме</string>
+    <string name="settings">Настройки</string>
+    <string name="empty">EMPTY</string>
+</resources>
